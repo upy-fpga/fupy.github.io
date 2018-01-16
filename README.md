@@ -5,7 +5,8 @@ and now has a new GitHub home at:
 
 [FPGA MicroPython (FμPy)](//github.com/fupy/)
 
-Please visit the new GitHub organisation for more information.
+Please [visit the new GitHub organisation](//github.com/fupy) for more
+information.
 
 ### Replacement git repositories
 
