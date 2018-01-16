@@ -16,7 +16,7 @@ git repositories are:
 
 *  `upy-fpga/micropython` -&gt; [`fupy/micropython`](//github.com/fupy/micropython/)
 
-*  `upy-fpg/upy-fpga-litex-gateware` -&gt; [`fupy/fupy-litex-gateware`](//github.com/fupy/fupy-litex-gateware)
+*  `upy-fpga/upy-fpga-litex-gateware` -&gt; [`fupy/fupy-litex-gateware`](//github.com/fupy/fupy-litex-gateware)
 
 *  `upy-fpga/numato-mimasv2-pic-firmware` -&gt; [`fupy/numato-mimasv2-pic-firmware`](//github.com/fupy/numato-mimasv2-pic-firmware)
 
